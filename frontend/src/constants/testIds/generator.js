@@ -6,4 +6,9 @@ export const GENERATOR = {
   previewReceipt: "preview-receipt",
   receiptCount: "receipt-count",
   previewDateSelect: "preview-date-select",
+  uploadDropzone: "upload-dropzone",
+  uploadInput: "upload-file-input",
+  removeUpload: "remove-upload-button",
+  baseTimeInput: "base-time-input",
+  variancesInput: "time-variance-input",
 };
