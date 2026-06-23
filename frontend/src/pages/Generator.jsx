@@ -66,7 +66,7 @@ export default function Generator() {
   const now = new Date();
   const [month, setMonth] = useState(String(now.getMonth()));
   const [year, setYear] = useState(String(now.getFullYear()));
-  const [baseTimeStr, setBaseTimeStr] = useState("3:48 pm");
+  const [baseTimeStr, setBaseTimeStr] = useState("5:48 pm");
   const [varianceStr, setVarianceStr] = useState("10");
 
   const [uploadedFile, setUploadedFile] = useState(null);
